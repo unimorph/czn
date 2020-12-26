@@ -1,6 +1,6 @@
 # Zenzontepec Chatino (czn)
 
-Contains verbal paradigms for Zenzontepec Chatino
+Contains verbal paradigms for Zenzontepec Chatino (Oto-Manguean)
 
 ## Data
 
