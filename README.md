@@ -7,6 +7,16 @@ Contains verbal paradigms for Zenzontepec Chatino (Oto-Manguean)
 Source:
 [Surrey Morphology Group](https://oto-manguean.surrey.ac.uk/Search/CZN)
 
+Cite:
+> @incollection{czn2015, 
+>      title={Oto-manguean inflectional class database: {Z}enzontepec {C}hatino}, 
+>      author={Feist, Timothy and Palancar, Enrique L. and Campbell, Eric}, 
+>      editor  = {Feist, Timothy and Palancar, Enrique L.},
+>      year={2015}, 
+>      publisher={University of Surrey},
+>      url={http://dx.doi.org/10.15126/SMG.28/1.12}
+>  }
+
 ## Annotators
 Antonis Anastasopoulos
 
